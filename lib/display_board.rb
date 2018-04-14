@@ -2,5 +2,5 @@
 def display_board
   row = ["   ","|","   ","|","   "]
   #line = ["-----------"]
-  puts row
+  print row
 end
